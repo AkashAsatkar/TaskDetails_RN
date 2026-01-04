@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "rnscreens_autolinked_build",
+		"source" : "/Users/pradeep/Desktop/Assignment1/Wagons_Ass/wagons_ass/node_modules/react-native-screens/android/src/main/jni"
+	}
+}

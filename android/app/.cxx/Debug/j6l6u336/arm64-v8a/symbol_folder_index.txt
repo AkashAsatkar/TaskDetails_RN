@@ -1,0 +1,1 @@
+/Users/pradeep/Desktop/Assignment1/Wagons_Ass/wagons_ass/android/app/build/intermediates/cxx/Debug/j6l6u336/obj/arm64-v8a
